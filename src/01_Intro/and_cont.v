@@ -1,4 +1,4 @@
-// file: and_proc.v
+// file: and_cont.v
 // desc: Beispiel mit kontinuierlicher Zuweisung
 
 module and_cont (
