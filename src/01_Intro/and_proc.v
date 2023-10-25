@@ -1,3 +1,6 @@
+// file: and_proc.v
+// desc: Beispiel mit prozeduraler Zuweisung
+
 module and_proc (
   input  wire x, y,
   output reg  f);

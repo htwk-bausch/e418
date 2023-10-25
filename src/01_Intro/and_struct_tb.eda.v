@@ -1,3 +1,6 @@
+// file: and_struct_tb.eda.v
+// desc: Testbench für and_struct.v für EDA Playground und iVerilog
+
 `timescale 1ns/1ns
 
 module and_struct_tb();
