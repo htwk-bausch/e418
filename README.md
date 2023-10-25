@@ -1,2 +1,2 @@
-# e418
-Embedded Systems II
+# Embedded Systems II (E418)
+
